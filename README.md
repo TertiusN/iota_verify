@@ -12,6 +12,18 @@ This transaction is signed with the private key of the bank, and contains all of
 
 John later goes to an insurance company which once again is requesting his passport. He now only needs to provide the insurance company with his Name, the TX hash and the Bitcoin address that verified his information. If the insurance company trusts the Banks KYC procedures, they can approve his information without needing his documents to be uploaded again. Thus saving the need to store it! The type of information that can be sent in bundles, includes address, name, ssn and maritial status. 
 
+### Testing
+
+Run
+python bitsign.py
+
+Follow the prompts to enter your name.
+Enter Name, John Smith. The next available address will be generated from the default seed, and the transaction will be submitted to the tangle. Store the information that has been shared on screen. 
+
+For recovery or verification, enter the details from the transaction and follow the prompts. 
+True - Identity verified
+False - Identity could not be verified
+
 ### Prerequisites and installation
 
 python2
