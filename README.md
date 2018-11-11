@@ -1,4 +1,4 @@
-# Identity Verification on the Tangle
+# Identity Verification on the Tangle - Using QR Codes
 
 Using the tangle and the bitcoin signature scheme, a proof of concept has been developed.
 
