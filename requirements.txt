@@ -1,2 +1,7 @@
 pyota[ccurl]
 ecdsa
+pillow
+qrcode
+pyzbar
+numpy
+opencv-contrib-python
