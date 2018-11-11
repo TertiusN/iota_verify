@@ -1,2 +1,2 @@
-pip install pyota[ccurl]
+pyota[ccurl]
 ecdsa
