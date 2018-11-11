@@ -21,10 +21,11 @@ Follow the prompts to enter your name.
 Enter Name, John Smith. The next available address will be generated from the default seed, and the transaction will be submitted to the tangle. Store the information that has been shared on screen. 
 
 For verification:
--print QR code
--Run bitsign_decode_qr.py
--Show your QR to your webcam
--Enter Name/information ('John Smith')
+
+- print QR code
+- Run bitsign_decode_qr.py
+- Show your QR to your webcam
+- Enter Name/information ('John Smith')
 
 True - Identity verified
 False - Identity could not be verified
