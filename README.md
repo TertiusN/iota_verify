@@ -15,12 +15,17 @@ John later goes to an insurance company which once again is requesting his passp
 ### Testing
 
 Run
-python bitsign.py
+python bitsign_qr.py
 
 Follow the prompts to enter your name.
 Enter Name, John Smith. The next available address will be generated from the default seed, and the transaction will be submitted to the tangle. Store the information that has been shared on screen. 
 
-For recovery or verification, enter the details from the transaction and follow the prompts. 
+For verification:
+-print QR code
+-Run bitsign_decode_qr.py
+-Show your QR to your webcam
+-Enter Name/information ('John Smith')
+
 True - Identity verified
 False - Identity could not be verified
 
