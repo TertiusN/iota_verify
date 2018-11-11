@@ -28,6 +28,7 @@ For verification:
 - Enter Name/information ('John Smith')
 
 True - Identity verified
+
 False - Identity could not be verified
 
 ### Prerequisites and installation
